@@ -1,5 +1,7 @@
 # ok-hash
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/okay-hash.svg)](https://greenkeeper.io/)
+
 A non-secure hash that's fast and simple. Hashes strings into signed numbers.
 
 ```javascript
